@@ -9,3 +9,21 @@ h1 {
   font-size: 3em;
   margin: 0;
 }
+
+nav {
+  background-color: #ffe500;
+  display: block;
+  text-align: center;
+  padding: 1px;
+}
+
+a {
+  background-color: #b2a212;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px;
+  border-radius: 3.5px;
+  color: #fff;
+  font-size: 1.1rem;
+}
