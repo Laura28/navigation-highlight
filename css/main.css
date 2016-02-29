@@ -39,3 +39,16 @@ ul {
   margin-bottom: 8px;
   margin-top: 8px;
 }
+
+body {
+  margin: 0;
+}
+
+h2 {
+  font-family: "Sigmar One", cursive;
+  color: #b20953;
+  text-align: left;
+  font-size: 1.8rem;
+  margin-left: 4px;
+  line-height: 1.6;
+}
