@@ -79,3 +79,11 @@ small {
   font-size: .7rem;
   color: #2f2d13;
 }
+
+nav .current {
+  background-color: #b20953;
+}
+
+a:hover {
+  background-color: #cc1465;
+}
